@@ -1,0 +1,34 @@
+_repo: True-to-Himself--Or-Roger-Strong-s-Struggle-for-Place_4995
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stratemeyer, Edward
+    aliases:
+    - Steward, Ray M.
+    - Bonehill, Ralph
+    - Winfield, Arthur M.
+    birthdate: 1862
+    deathdate: 1930
+    gutenberg_agent_id: '1626'
+    url: http://www.gutenberg.org/2009/agents/1626
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Stratemeyer
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4995'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'False imprisonment -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Success -- Juvenile fiction'
+- !lcsh 'Suppression of evidence -- Juvenile fiction'
+- !lcsh 'Family -- Juvenile fiction'
+- !lcsh 'Children of prisoners -- Juvenile fiction'
+- GITenberg
+title: True to Himself; Or, Roger Strong's Struggle for Place
+url: http://www.gutenberg.org/ebooks/4995
